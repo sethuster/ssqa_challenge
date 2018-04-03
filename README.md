@@ -1,3 +1,5 @@
+![travisci-build](https://travis-ci.org/sethuster/ssqa_challenge.svg?branch=master)
+
 # SSQA Challenge
 This is the ShapeShift QA Challenge assignment.  In this assignment I've added some API tests for a few different endpoints.  Additionally I've added a few UI tests verifying some dynamically refreshing data.  
 
