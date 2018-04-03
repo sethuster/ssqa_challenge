@@ -10,8 +10,8 @@ exports.config = {
     // directory is where your package.json resides, so `wdio` will be called from there.
     //
     specs: [
-        './test/specs/**/*.js'
-        // './test/specs/ss_ui.spec.js'
+        // './test/specs/**/*.js'
+        './test/specs/ss_ui.spec.js'
     ],
     // Patterns to exclude.
     exclude: [
@@ -45,7 +45,7 @@ exports.config = {
         // 5 instances get started at a time.
         maxInstances: 1,
         //
-        browserName: 'chrome'
+        browserName: 'firefox'
     }],
     //
     // ===================
